@@ -32,7 +32,7 @@ public class Book {
         this.authors = authors;
     }
 
-    public long getId() {
+    public Long getId() {
         return id;
     }
 
